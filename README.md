@@ -3,7 +3,7 @@ Data mining project using RapidMiner
 
 The project uses a decision tree model to predict the credit rating of customers (Bad or Good) based on various attributes to help bank managers decide about loan applicants. The data was analyzed using historical information on customers who have taken out loans from a bank, including whether or not they repaid the loans or defaulted. 
 
-## Part 1: Business Understanding:
+## Part 1: Business Understanding
 Problem: Finding the best way to make decision about loan applications based on a data-driven model.
 
 Description: The bank maintains a historical database of information on customers who have taken out loans from the bank. It is the bank’s job to predict the likelihood that loan applicants will default on their loans. A good credit rating means that the loan applicant will not default. A bad credit rating means that the loan applicant will default. 
