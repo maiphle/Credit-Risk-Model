@@ -155,4 +155,4 @@ Suggestions to improve the models based hyperparameters:
 
 ## Appendix: Decision Tree Model Building
 
-<img src="images/credit-risk-rapidminer.png"/>
+<img src="images/rapidminer-credit-risk.png"/>
