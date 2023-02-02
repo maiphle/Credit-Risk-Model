@@ -78,13 +78,15 @@ None or 1	| 893	| 36%	| 100%
 
 There are 15 nodes in the decision tree model. There are 9 terminal nodes, the maximum depth is 3, and the target variables are Good and Bad. The features, in the order of significance, where the sample split are: 
 
-* “Less than 5” and “5 or more”; 
-* “Low”, “Medium”, and “High”; 
-* “None or 1” and “More than 2”; 
-* “≤ 34.290” and “≥34.290”; 
-* “≤ 41.124” and “≥41.124”.
+* Number of credit cards
+* Income
+* Age
+* Car loans.
 
 <img src="images/Loan Decision Tree.png"/>
+
+Based on the results provided below, we see indication of slight underfitting in the model based on the performance table.
+
 
 **Confusion matrix based on the “Performance Test”**
 
