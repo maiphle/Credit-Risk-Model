@@ -153,3 +153,6 @@ Suggestions to improve the models based hyperparameters:
 
 * The appropriate minimal size for leaf would be 50 but if we change it to 5 the data becomes more accurate but also more prone to overfitting. And the minimal size for the split would be 100 but if we change it to 10 the data tends to have a similar effect of becoming more accurate as well as more prone to overfitting.
 
+## Appendix: Decision Tree Model Building
+
+<img src="images/credit-risk-rapidminer.png"/>
